@@ -1,0 +1,38 @@
+.dashboard-container-top {
+  display: flex;
+  justify-content: space-around !important;
+  zoom: 90%;
+  margin-left: 220px;
+
+}
+.dashboard-container-table {
+  padding: 10px;
+  box-shadow: 0px 1px 10px 1px black;
+  border-radius: 10px;
+  margin-left: 310px;
+  color: white;
+  margin-top: 30px;
+  margin-right: 90px;
+  zoom: 90%;
+  z-index: 1;
+  background-image: linear-gradient(to bottom right, #02dff0,#b705ca);
+}
+
+th {
+  color: #ffffff;
+}
+tbody {
+  color: #ffffff;
+}
+
+.dashboard-header {
+  margin-left: 240px;
+  padding: 30px;
+  display: flex;
+
+}
+
+.dashboard-icon{
+  font-size: 50px;
+  color: #258a92;
+}
